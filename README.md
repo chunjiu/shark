@@ -8,7 +8,7 @@ This project currently uses these dependencies:
 
 # How to run it
 
-1. git clone https://github.com/chunjiu/sharkJob.git  或下载
+1. git clone https://github.com/chunjiu/shark.git  或下载
 2. npm install
 3. react-native run-android
 * 注意：需要自己配新建项目,而后将下载的代码放进新建的项目里。业余时间做的，没有做后台，之后会开发更多功能及后台，后台准备用node.js开发。
